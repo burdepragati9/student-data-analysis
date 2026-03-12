@@ -1,2 +1,15 @@
-# student-data-analysis
-Student Data Analysis project using Python and the Pandas library. The project reads a CSV file containing 100 student records and performs data operations such as filtering students by age and grade, calculating the average age, and identifying students whose age is above the average.
+# Student Data Analysis using Pandas
+
+This project analyzes student data from a CSV file.
+
+Tasks performed:
+1. Read CSV file using pandas
+2. Filter students with age > 10
+3. Filter students in grade B
+4. Calculate average age
+5. Filter students above average age
+
+Tools Used:
+Python
+Pandas
+VS Code
